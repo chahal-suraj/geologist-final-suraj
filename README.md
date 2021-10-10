@@ -1,1 +1,2 @@
-# geologist-final-suraj
+# Geologist
+Geologist Project
